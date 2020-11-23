@@ -1,4 +1,4 @@
-# *Coming soon! We are waiting for opensource copyright approval to post code*
+# *Code now posted. We are waiting for opensource copyright info to be added* 
 
 ## Readme for code to reproduce result tables and plots for ICML 2019 full paper entitled "Active Manifolds: A non-linear analogue to Active Subspaces"
 ## Please cite this paper for use of this code. 
